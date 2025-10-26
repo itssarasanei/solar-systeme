@@ -1,0 +1,20 @@
+﻿  code21.cpp
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(16,43): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(22,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(23,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(34,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(35,40): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(36,23): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(107,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(108,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(109,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(110,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(111,19): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(112,20): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(121,25): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(124,25): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(127,24): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(130,24): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(134,29): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\code21.cpp(138,29): warning C4305: '-=': truncation from 'double' to 'float'
+  code21.vcxproj -> C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\x64\Debug\code21.exe

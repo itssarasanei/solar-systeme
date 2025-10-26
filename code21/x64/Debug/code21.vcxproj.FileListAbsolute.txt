@@ -1,0 +1,9 @@
+E:\university\mehr 1402\albert\11\code21\x64\Debug\code21.exe
+E:\university\mehr 1402\grafic\albert\11\code21\x64\Debug\code21.vcxproj.CopyComplete
+E:\university\mehr 1402\grafic\albert\11\code21\x64\Debug\code21.exe
+E:\university\mehr 1402\grafic\albert\11\code21\x64\Debug\freeglutd.dll
+E:\a university\mehr 1402\albert\11\code21\x64\Debug\code21.exe
+D:\a university\mehr 1402\albert\11\code21\x64\Debug\code21.exe
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\x64\Debug\code21.vcxproj.CopyComplete
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\x64\Debug\code21.exe
+C:\Users\SUPER STAR\Desktop\NewFolder (1)\code21\x64\Debug\freeglutd.dll
